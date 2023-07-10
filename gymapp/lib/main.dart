@@ -1,4 +1,4 @@
-flutterfire configureimport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_gymapp/telas/autenticacao_tela.dart';
 import 'package:flutter_gymapp/telas/exercicio_tela.dart';
 
